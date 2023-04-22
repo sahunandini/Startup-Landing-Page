@@ -1,0 +1,152 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+    margin: 0%;
+    font-size: 20px;
+    margin-bottom: 70px;
+}
+
+.container {
+    background-color: rgb(252,175,2);
+    display: flex;
+}
+
+.left-nav {
+    width: 55%;
+    padding-top: 20px;
+    padding-left: 35px;
+}
+
+.right-nav {
+    padding: 15px;
+}
+
+a {
+    gap: 10px;
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.sec1 {
+    display: flex;
+    padding: 40px;
+}
+
+.left-sec1 {
+    color: #FFFFFF;
+    width: 60%;
+}
+
+h1 {
+    font-size: 43px;
+    font-weight: bolder;
+}
+
+.right-sec1 {
+    justify-content: right;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+
+.button1 {
+    background-color: rgb(252,175,2);
+    width: 230PX;
+    height: 50PX;
+    border-radius: 40PX;
+    font-size: larger;
+    font-weight: bolder;
+    border-color: rgb(252,175,2);
+    margin-top: 15px;
+}
+
+.main1 {
+    display: flex;
+    padding: 40px;
+    padding-top: 20px;
+}
+
+.form1 {
+    color: rgb(252,175,2);
+}
+
+h2 {
+    color: rgb(252,175,2);
+    font-size: 43px;
+    font-weight: bolder;
+}
+ .name {
+    width: 92%;
+    border-radius: 30px;
+    padding: 20px 40px;
+    margin: 20px 0;
+    color: rgb(252,175,2);
+    background-color: black;
+    border-color: rgb(252,175,2);
+ }
+
+ .numb {
+    width: 40%;
+    border-radius: 30px;
+    padding: 20px 40px;
+    margin: 10px 0;
+    color: rgb(252,175,2);
+    background-color: black;
+    border-color: rgb(252,175,2);
+ }
+
+ .city {
+    width: 40%;
+    border-radius: 30px;
+    padding: 20px 40px;
+    margin: 20px 0;
+    color: rgb(252,175,2);
+    background-color: black;
+    border-color: rgb(252,175,2);
+    margin-left: 50px;
+}
+
+::placeholder {
+    color: rgb(252,175,2);
+    font-size: 20px;
+}
+  
+
+.button2 {
+    background-color: rgb(252,175,2);
+    width: 230PX;
+    height: 60PX;
+    border-radius: 40PX;
+    font-size: larger;
+    font-weight: bolder;
+    border-color: rgb(252,175,2);
+    margin-left: 40%;
+    margin-top: 20px;
+}
+
+.table1 {
+    color: rgb(252,175,2);
+    border-color: rgb(252,175,2);
+    width: 92%;
+    margin: 40px;
+}
+
+thead {
+    border: 1px solid rgb(252,175,2);
+}
+
+tr {
+    border: 1px solid rgb(252,175,2);
+    
+}
+
+td {
+    padding: 20px;
+}
+
+.t-footer {
+    color: black;
+    background-color: rgb(252,175,2);
+}
+
