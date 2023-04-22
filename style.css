@@ -36,7 +36,7 @@ a {
 
 .left-sec1 {
     color: #FFFFFF;
-    width: 60%;
+/*     width: 60%; */
 }
 
 h1 {
@@ -46,7 +46,7 @@ h1 {
 
 .right-sec1 {
     justify-content: right;
-    padding-left: 70px;
+    padding-left: 30px;
     padding-top: 20px;
 }
 
